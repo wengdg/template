@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Danny Weng",
-    "label": "Student",
+    "label": "",
     "picture": "https://wengdg.github.io/images/profile.jpg",
     "email": "weng@hawaii.edu",
     "phone": "808-429-7517",
     "website": "https://wengdg.github.io",
-    "summary": "Not much",
+    "summary": "Computer Science.  Graduate student.  Cool.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -33,6 +33,16 @@
       "keywords": [
       ]
     },
+    {
+      "name": "Biology",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
