@@ -42,6 +42,11 @@
       "name": "Graphic Design",
       "keywords": [
       ]
+    },
+    {
+      "name": "Games With a Purpose",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -51,30 +56,39 @@
       "keywords": [
         "C",
         "C++",
+        "HTML/CSS",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Git",
+        "Linux",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
       ]
     }
   ],
   "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+     {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Marine Biology",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2006",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2014",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -83,27 +97,37 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa",
+      "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "TA for the following ICS courses: 415, 475, 111",
+    },
+    {
+      "company": "Mobile IT Force",
+      "position": "Warranty Technician",
+      "website": "http://www.mobileitforce.com",
+      "startDate": "2012",
+      "endDate": "Present",
+      "summary": "Responsible for computer repairs, troubleshooting, and outside technical support",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provide warranty repair for Lenovo machines",
+        "Provide repairs for personal computer-related issues",
+        "Provide administrative and network services for companies"
+        "Webmaster duties"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "William S. Richardson School of Law",
+      "position": "IT Support",
+      "startDate": "2007",
+      "endDate": "Present",
+      "summary": "Provide technical support for the law school.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist student and professors with a wide-range of technical issues",
+        "Set up A/V equipment for lectures and law school events",
+        "Maintain A/V equipment and computer lab",
       ]
     }
   ],
@@ -134,24 +158,4 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
 }
