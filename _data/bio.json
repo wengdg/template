@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "dannygweng",
         "url": "http://linkedin.com/in/dannygweng"
-      },
+      }
     ]
   },
   "interests": [
@@ -47,7 +47,7 @@
       "name": "Games With a Purpose",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -78,7 +78,7 @@
       "keywords": [
         "Certified Lenovo Technician"
       ]
-    },
+    }
   ],
   "education": [
      {
@@ -148,14 +148,14 @@
         "Utilized software including Geneious, BLAST, and Stata to process and analyze biological data",
         "Collected morphological data from limpets",
       ]
-    },
+    }
   ],
   "volunteer": [
     {
       "organization": "UHM Biology Club",
       "startDate": "2006",
       "endDate": "2011",
-      "summary": "Participated in events which include guided hikes, snorkeling, and fundraising activities.  Also participated in volunteer events, including beach clean-ups, The Great Aloha Run, Relay For Life, Kaupa Adopt a Stream Project, and Waimea Audobon Conservation Project",
+      "summary": "Participated in events which include guided hikes, snorkeling, and fundraising activities.  Also participated in volunteer events, including beach clean-ups, The Great Aloha Run, Relay For Life, Kaupa Adopt a Stream Project, and Waimea Audobon Conservation Project.",
     },
     {
       "organization": "UH Marine Option Program",
