@@ -4,7 +4,7 @@
     "label": "",
     "picture": "https://wengdg.github.io/images/profile.jpg",
     "email": "weng@hawaii.edu",
-    "phone": "808-429-7517",
+    "phone": "",
     "website": "https://wengdg.github.io",
     "summary": "Computer Science.  Graduate student.  That's about it.",
     "location": {
@@ -164,5 +164,5 @@
       "endDate": "2011",
       "summary": "Participated in events which raises awareness of marine life around the islands, including whale monitoring, beach clean-ups, and laboratory tours.",
     }
-  ],
+  ]
 }
