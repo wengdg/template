@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/deep-sea.jpg
 title: Deep Sea Exploration
 permalink: projects/deepseavr
 date: 2015
@@ -12,12 +12,6 @@ labels:
 summary: A virtual reality game in which the player mans a submersible to explore a calm but terrifying abyss.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Deep Sea Exploration is a virtual reality game developed as the final project for ICS 691.  The game immerses the player into the ocean abyss, manning a submersible to explore deep-sea communities.  The atmosphere of the game was the main focus during development as it was important to give players a sense of presence and not take them out of the virtual reality experience.  This was achieved by forgoing any music and instead using ambient sound and relying on dim lighting to portray the benthic world.  This game was developed with Unity to be played on the HTC Vive.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Demo of the gameplay can be found <a href="https://www.youtube.com/watch?v=XUS7eXnGGBo">here</a>
