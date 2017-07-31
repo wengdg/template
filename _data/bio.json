@@ -109,7 +109,7 @@
       "website": "",
       "startDate": "2016",
       "endDate": "Present",
-      "summary": "TA for the following ICS courses: 415, 475, 111, 314 (Current)",
+      "summary": "TA for the following ICS courses: 415, 475, 111, 314 (Current).",
     },
     {
       "company": "Mobile IT Force",
@@ -117,7 +117,7 @@
       "website": "http://www.mobileitforce.com",
       "startDate": "2012",
       "endDate": "Present",
-      "summary": "Responsible for computer repairs, troubleshooting, and outside technical support",
+      "summary": "Responsible for computer repairs, troubleshooting, and outside technical support.",
       "highlights": [
         "Provide warranty repair for Lenovo machines",
         "Provide repairs for personal computer-related issues",
@@ -136,9 +136,21 @@
         "Set up A/V equipment for lectures and law school events",
         "Maintain A/V equipment and computer lab",
       ]
-    }
+    },
+    {
+      "company": "Hawaii Institute of Marine Biology",
+      "position": "Research Assistant",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "Assisted with PI in laboratory work.",
+      "highlights": [
+        "Performed lab tasks such as gel electrophoresis, PCR, and nanodrops",
+        "Utilized software including Geneious, BLAST, and Stata to process and analyze biological data",
+        "Collected morphological data from limpets",
+      ]
+    },
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "UHM Biology Club",
       "startDate": "2006",
