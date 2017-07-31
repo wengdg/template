@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/reef-main-page.png
+image: images/reef-preview.jpg
 title: Reef Nexus
 permalink: projects/reefnexus
 date: 2015
