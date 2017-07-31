@@ -13,14 +13,4 @@ summary: Targeting fish enthusiasts, this application takes crowd-sourced inform
 projecturl: https://github.com/ReefNexus/reefnexus
 ---
 
-/**
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/reef-home.png">
-  <img class="ui image" src="../images/user-guide-1.png">
-  <img class="ui image" src="../images/user-guide-2.png">
-  <img class="ui image" src="../images/user-guide-3.png">
-  <img class="ui image" src="../images/user-guide-4.png">
-</div>
-**/
-
 
