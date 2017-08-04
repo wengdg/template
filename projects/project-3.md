@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/aligngame.jpg
+image: images/aligngame.JPG
 title: Citizen Science in Bioinformatics
 permalink: projects/citscibio
 date: 2017
