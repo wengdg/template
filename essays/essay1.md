@@ -11,8 +11,6 @@ labels:
 
 *SOP that was sent along with my application to the ICS graduate program.*
 
-**Statement of Purpose**
-**Danny Weng**
 **Master of Science in Information and Computer Sciences**
 
 Although my intended area of graduate study is in computer science, I cannot discuss it without mentioning my other driving force behind this application: my experiences in the field of marine biology.  Along with computing, the study of marine life has long been one of my predominant interests, and it was clear to me that my undergraduate career would center around one of these two subjects.  I decided to study marine biology at the University of Hawai‘i at Mānoa, and I believe I could not have had a more enlightening experience had I chosen any other focus.  During that time I was able to secure my confidence in my ability to analyze problems as a scientist and I was also reintroduced to computing, but now as a way to solve biological problems.  I have grown increasingly interested in computer science since, and as a result, have started studying various programming languages relevant to building and using bioinformatics programs. 
