@@ -9,7 +9,7 @@ labels:
   - Education
 ---
 
-*This is the SOP that I sent in with my application to the ICS graduate program.  Although it was not required, I thought it would help my application a little as I was transitioning from biology to computer science.*
+*This is the SOP that I sent in with my application to the ICS graduate program (long ago...).  Although it was not required, I thought it would help my application a little as I was transitioning from biology to computer science.*
 
 ## Statement of Purpose
 ## Danny Weng
