@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/friend-q11.png
-title: Online Friends Are Friends Too: A Study On The Public Perspective of Online Friendships
+title: Online Friends Are Friends Too
 permalink: projects/onlinefriend
 date: 2017
 labels:
