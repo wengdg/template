@@ -13,7 +13,7 @@ labels:
 summary: Justifying the case for citizen science in protein multiple sequence alignment.  A literature review.
 ---
 <figure>
-<img class="ui huge image" src="../images/phylo.png">
+<img class="ui medium right floated rounded image" src="../images/phylo.png">
 <figcaption><i><small>An in-game image of a level in Phylo, a DNA alignment game in which players work on real alignments and potentially offer better solutions.</small></i></figcaption>
 </figure>
 
