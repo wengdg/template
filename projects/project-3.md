@@ -12,8 +12,10 @@ labels:
   - Bioinformatics
 summary: Justifying the case for citizen science in protein multiple sequence alignment.  A literature review.
 ---
-
-<img class="ui centered large image" src="../images/eterna.png">
+<figure>
+<img class="ui centered big image" src="../images/phylo.png">
+<figcaption>An in-game image of a level in Phylo, a DNA alignment game in which players work on real alignments and potentially offer better solutions.</figcaption>
+</figure>
 
 One of my current research topics is the application of crowd-sourcing techniques to a sequence alignment, a fundamental method in bioinformatics.  Sequence alignment is used to find similarity between two genomic or proteomic sequences (DNA, RNA, protein), and from there a relationship may be derived between the two species from which the sequences belong to.  Multiple sequence alignment is the alignment of more than two sequences, and is a very complex problem.  My research specifically focuses on the presentation of sequence alignment as a game, as the method itself has many puzzle-like elements.  By allowing players to work on subproblems of a larger multiple sequence alignment, better solutions may be obtained than what current algorithms can provide.  This collection of crowd-sourced data is known as citizen science, and can be seen as a collaboration between scientists and the general public.  My literature review justifies the application of citizen science to protein sequence alignment, and is the entry point of my research before working on a full-fledged game.  The following is the introduction from my literature review (references also provided):
 
