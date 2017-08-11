@@ -10,7 +10,7 @@ labels:
   - Twitter Bootstrap
   - Google Maps API
 summary: Targeting fish enthusiasts, this application takes crowd-sourced information to provide censuses on local fish populations.
-projecturl: https://github.com/ReefNexus/reefnexus
+projecturl: http://reefnexus.github.io/reefnexus/
 ---
 
 
