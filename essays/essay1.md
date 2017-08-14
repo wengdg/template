@@ -9,6 +9,8 @@ labels:
   - Education
 ---
 
+<img class="ui huge rounded image" src="../images/bioinformatics.png">
+
 *SOP that was sent along with my application to the ICS graduate program.*
 
 **Master of Science in Information and Computer Sciences**
