@@ -12,6 +12,8 @@ labels:
 
 For this DannyWOD, you will modify meteor-example-form so that the Create Student Data page will also have a selection box in which students can select the year that they are planning to graduate.  You will then test this selection box by adding a new student and viewing the document within Mongo.  Here is an example of the extra selection box:
 
+<img class="ui medium image" src="dannywod-meteor2.png">
+
 ## The WOD
 
 Ready? Let's begin:
@@ -66,6 +68,3 @@ Ready? Let's begin:
  1. Once you’ve finished, commit your changes to GitHub, and check to see that your changes are there.
 
  2. Raise your hand to notify me that you are done.
-
-{% include wod-times.html Rx="< 15 min" Av="15 - 25 min" Sd="25 - 35 min" DNF="35+ min" %}
-
