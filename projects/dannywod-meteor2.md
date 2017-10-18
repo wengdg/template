@@ -1,7 +1,7 @@
 ---
 title: "DannyWOD: Form Extension"
 published: true
-permalink: projects/deepseavr
+permalink: projects/dannywod-meteor2
 morea_id: dannywod-formext
 morea_type: experience
 morea_summary: "Add an extra option to meteor-example-form"
