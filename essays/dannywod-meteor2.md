@@ -12,8 +12,6 @@ labels:
 
 For this DannyWOD, you will modify meteor-example-form so that the Create Student Data page will also have a selection box in which students can select the year that they are planning to graduate.  You will then test this selection box by adding a new student and viewing the document within Mongo.  Here is an example of the extra selection box:
 
-{% include medium-img.html url="dannywod-meteor2.png" %}
-
 ## The WOD
 
 Ready? Let's begin:
