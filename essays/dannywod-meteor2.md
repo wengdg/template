@@ -1,11 +1,11 @@
 ---
-title: "DannyWOD: Form Extension"
+layout: essay
+type: essay
 published: true
-morea_id: dannywod-formext
-morea_type: experience
-morea_summary: "Add an extra option to meteor-example-form"
-morea_sort_order: 6
-morea_labels: WOD
+title: DannyWOD: Form Extension
+date: 2017-10-17
+labels:
+  - WOD
 ---
 
 # DannyWOD: Form Extension
