@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: DannyWOD: Form Extension
+title: DannyWOD\: Form Extension
 date: 2017-10-17
 labels:
   - WOD
