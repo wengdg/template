@@ -23,5 +23,6 @@ I continued to rely on computational programs for my second directed project, wh
 
 It has now been a year and a half since I started taking ICS courses as a post-baccalaureate student, and I strongly believe that my future pursuits lie within this field.  With the education obtained from an intensive computer science program, I would like to contribute back to the field of biology.  The applications of computer science to biologists are within a broad and increasing spectrum, from discovering efficient algorithms that process nucleotide and protein sequences, to predicting the structure and purpose of an incomplete biological system.  A strong background in computational systems, programming languages, and algorithms is required to apply these techniques, and I believe the MS Program in Computer Sciences at UHM can provide me with that knowledge.  It would also benefit me greatly to study at UHM because its extensive research in both computer science and biology often interact with each other, offering growing opportunities in bioinformatics and a faculty that is diverse in many areas.  I look forward to a higher learning experience in this program, and to future endeavors involving the applications of computer science.  
 
-//
-GitHub testing on techfolios!
+
+
+git-testing branch here
